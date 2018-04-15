@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;spring-boot-jpa-docker-webapp/src/main/java/be&apos; to &apos;study&apos;" description="Rename resource &apos;be&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/be" name="study" stamp="1523169156377" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;spring-boot-jpa-docker-webapp/src/main/java/study/g00glen00b&apos; to &apos;pattern&apos;" description="Rename resource &apos;g00glen00b&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/study/g00glen00b" name="pattern" stamp="1523169167203" updateReferences="true"/>
+</session>

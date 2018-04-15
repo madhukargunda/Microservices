@@ -1,0 +1,5 @@
+study/pattern/controller/DiscoveryController.class
+study/pattern/entity/Superhero.class
+study/pattern/controller/SuperheroController.class
+study/pattern/repository/SuperheroRepository.class
+study/pattern/SpringBootJpaWebappApplication.class

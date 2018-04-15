@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-jpa-docker-webapp"/>
+<aop-project name="eureka-registry"/>
+<aop-project name="customer-service"/>
+<aop-project name="user-service"/>
+<aop-project name="account-service"/>
+<aop-project name="product-catalog-service"/>
+</aop-reference-model>
